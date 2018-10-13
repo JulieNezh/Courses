@@ -1,0 +1,23 @@
+commit 7bcb1be2c41d2814e7d77b3ea6c5f61e67d7d60c (origin/Lesson1, Lesson1)
+Author: JulieNezh <skoryk.yulia+github@gmail.com>
+Date:   Sat Oct 13 11:50:03 2018 +0300
+
+    Add pages file
+
+commit a5273b9ff49202dd111467eedf825ce0739fc0a1 (HEAD -> Lesson2, tag: Tag_Lesson2, origin/Lesson2)
+Author: JulieNezh <skoryk.yulia+github@gmail.com>
+Date:   Sat Oct 13 11:45:33 2018 +0300
+
+    Add files
+
+commit 25cfa8d39065e8132fe7a01615a0da0f7d485b4d
+Author: JulieNezh <skoryk.yulia+github@gmail.com>
+Date:   Sat Oct 13 11:26:12 2018 +0300
+
+    Add files 
+
+commit a909dc0769e96d8e557260928030afd3f5592df2 (origin/master, master)
+Author: JulieNezh <skoryk.yulia@gmail.com>
+Date:   Sat Oct 13 10:46:50 2018 +0300
+
+    Initial commit
